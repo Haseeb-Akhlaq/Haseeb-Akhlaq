@@ -1,4 +1,4 @@
-### Hola I am Haseeb Akhlaq 👋
+### Hola, I am Haseeb Akhlaq 👋
 
 
 - 🔭 I’m currently working on Voting App
